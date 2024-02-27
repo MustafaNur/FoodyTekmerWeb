@@ -1,0 +1,27 @@
+﻿@model List<FoodyTekmerEntityLayer.Concrete.OurFeature>
+
+<div class="container-fluid bg-light bg-icon py-6">
+    <div class="container">
+        @foreach (var item in Model)
+        {
+
+
+                <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                    <h1 class="display-5 mb-3">@item.OurFeatureTitle</h1>
+                    <p>@item.OurFeatureDescription</p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="bg-white text-center h-100 p-4 p-xl-5">
+                            <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
+                            <h4 class="mb-3">@item.OurFeatureTitle</h4>
+                            <p class="mb-4">@item.OurFeatureDescription</p>
+                            <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Daha fazla bilgi edinin</a>
+                        </div>
+                    </div>
+
+                </div>
+        }
+        </div>
+    </div>
+

@@ -1,0 +1,36 @@
+﻿@model List<FoodyTekmerEntityLayer.Concrete.Category>
+
+@{
+    Layout = null;
+}
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<div class="container">
+    <h2 class="text-center">Merhaba Foody Projeckt</h2>
+    <br />
+    <table class="table border-1">
+        <tr>
+            <th>
+                Kategori ID
+            </th>
+            <th>
+                Kategori Adı
+            </th>
+            <th>Sil</th>
+            <th>Güncelle</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CategoryID</td>
+                <td>@item.CategoryName</td>
+                <td><a href="/Category/DeleteCategory/@item.CategoryID" class="btn btn-outline-danger">Sil</a></td>
+                <td><a href="/Category/UpdateCategory/@item.CategoryID" class="btn btn-outline-success">Güncelle</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Category/CreateCategory" class="btn btn-primary">Yeni Kategori Girişi</a>
+</div>

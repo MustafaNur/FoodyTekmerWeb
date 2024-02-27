@@ -1,0 +1,17 @@
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerBusinessLayer.deps.json
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerBusinessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerBusinessLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerEntityLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\bin\Debug\net6.0\FoodyTekmerEntityLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\refint\FoodyTekmerBusinessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\FoodyTekmerBusinessLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerBusinessLayer\obj\Debug\net6.0\ref\FoodyTekmerBusinessLayer.dll

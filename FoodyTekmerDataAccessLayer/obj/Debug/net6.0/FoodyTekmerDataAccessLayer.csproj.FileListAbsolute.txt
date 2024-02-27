@@ -1,0 +1,17 @@
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.deps.json
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerDataAccessLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerEntityLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\bin\Debug\net6.0\FoodyTekmerEntityLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\refint\FoodyTekmerDataAccessLayer.dll
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.pdb
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\FoodyTekmerDataAccessLayer.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Tekmer\FoodyTekmerWebUI\FoodyTekmerDataAccessLayer\obj\Debug\net6.0\ref\FoodyTekmerDataAccessLayer.dll
