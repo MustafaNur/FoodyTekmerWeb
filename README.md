@@ -12,4 +12,5 @@ Projede kullanılan teknolojiler:
 - Code First
 - Microsoft SQL Server
 - N-Tier Architecture
+- Component
 - Repository Design Pattern
